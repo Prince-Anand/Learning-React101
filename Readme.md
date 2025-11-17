@@ -1,10 +1,9 @@
 <div align="center">
 <img src="https://www.pngfind.com/pngs/b/685-6854970_react-logo-png.png" width="200"> 
   <h1>
-    Learning React101  
-    <br>
+    Learning React101  </h1>
+    <!-- <br> -->
     <p><strong>A daily journey from Zero → Advanced React</strong></p>
-  </h1>
   <img src="https://img.shields.io/badge/learning-react-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/daily-updates-green?style=for-the-badge" />
 </div>
