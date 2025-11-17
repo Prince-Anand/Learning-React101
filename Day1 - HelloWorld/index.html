@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello</title>
+</head>
+<body>
+    <!-- <h1>Hello, World!</h1>  -->
+    <!-- This is the way to write hello world in HTML. -->
+    
+    <div id="root"></div>
+    <script>
+        // const root = document.getElementById("root");
+        
+        // const heading = document.createElement("h1");
+        // heading.innerHTML = "Hello, World! from JavaScript";
+        // root.appendChild(heading);
+        
+        // or
+        const root = document.querySelector("#root");
+        const heading = document.createElement("h1");
+        heading.innerText = "Hello, World! from JavaScript";
+        root.append(heading);
+    </script>
+</body>
+<!-- First method to include React and ReactDOM via CDN: -->
+<script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+<script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+<!-- This is the CDN method to include React and ReactDOM in your project without installing them via npm. -->
+ <!-- Now, Typing React in console will not give error. -->
+  
+</html>
+
+<!-- HW -->
+ <!--1. What is crossorigin and CDN links? -->
