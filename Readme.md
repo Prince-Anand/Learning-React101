@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.sstatic.net/kyKz5.png">
+<img src="https://www.pngfind.com/pngs/b/685-6854970_react-logo-png.png" width="200"> 
   <h1>
     Learning React101  
     <br>
