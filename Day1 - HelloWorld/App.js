@@ -26,7 +26,7 @@
  *
  */
 
-// createElement(object) => html element(browser understands)
+// ReactElement(object) => html element(browser understands)
 const parent = React.createElement("div", { id: "parent" }, [
   React.createElement("div", { id: "child1" }, [
     React.createElement("h1", {}, "I am an H1 tag"),
