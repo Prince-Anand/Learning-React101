@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F67605317%2Freact-show-png-image-with-transparent-style-background&psig=AOvVaw35Rxd3nw5Mo9siI1sM0AFt&ust=1763487319070000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNiUs6zc-ZADFQAAAAAdAAAAABAE">
+<img src="https://i.sstatic.net/kyKz5.png">
   <h1>
     Learning React101  
     <br>
