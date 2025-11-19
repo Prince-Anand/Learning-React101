@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styles.css">
+    <title>Hello Day2</title>
+</head>
+<body>
+    <h2>This is printed as it is on top of rendered root</h2>
+    <div id="root">
+        <h1>This should be getting replaced by ReactDom render</h1>
+    </div>
+    <h2>This is printed as it is on bottom of rendered root</h2>
+</body>
+
+    <script type="module" src="./App.js"></script>
+  <!-- execute is done using npx parcel index.html -->
+   <!-- CDN are not preffered in production as they are not reliable always -->
+    <!-- we have to set request to unpkg server to get react and react-dom files everytime we load the page which is not good for performance so we use bundlers like parcel,webpack etc to bundle all files together including react and react-dom and serve it from our local server. -->
+    <!-- npm install react
+     npm install react-dom -->
+</html>

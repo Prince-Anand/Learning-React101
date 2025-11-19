@@ -1,0 +1,30 @@
+{
+  "name": "day2---npm",
+  "version": "1.0.0",
+  "description": "what is npm",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prince-Anand/Learning-React101.git"
+  },
+  "author": "Prince Anand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prince-Anand/Learning-React101/issues"
+  },
+  "homepage": "https://github.com/Prince-Anand/Learning-React101#readme",
+  "devDependencies": {
+    "parcel": "^2.16.1"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "browserslist": [
+    "last 2 version",
+    "last 1 firefox version",
+    "last 1 safari version"
+  ]
+}
