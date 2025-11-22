@@ -25,3 +25,5 @@ commands -
 `npx parcel build index.html` 
 for production -> compresses,cleans file,Removes unused code (tree-shaking),Optimizes images, Generates hashed filenames (for caching),
 Outputs everything into a dist/ folder 
+
+In v19 we use Vite
